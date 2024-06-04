@@ -1,2 +1,2 @@
-# Hubert-Blaine
-Wapentwickler
+# MagicJaden Wapseite
+Custom Wapseite für MagicJaden
